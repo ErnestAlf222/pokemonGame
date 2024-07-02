@@ -8,8 +8,8 @@
 
     "baseUrl": ".",
     "paths": {
-      // Configuración de @
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@pokemon/*": ["./src/modules/pokemon/*"]
     }
   }
 }
